@@ -1,0 +1,9 @@
+C:\Development\Software Development\Repos\ChangeWallpaper\ChangeWallpaper\bin\Debug\ChangeWallpaper.exe.config
+C:\Development\Software Development\Repos\ChangeWallpaper\ChangeWallpaper\bin\Debug\ChangeWallpaper.exe
+C:\Development\Software Development\Repos\ChangeWallpaper\ChangeWallpaper\bin\Debug\ChangeWallpaper.pdb
+C:\Development\Software Development\Repos\ChangeWallpaper\ChangeWallpaper\obj\Debug\ChangeWallpaper.csprojAssemblyReference.cache
+C:\Development\Software Development\Repos\ChangeWallpaper\ChangeWallpaper\obj\Debug\ChangeWallpaper.Properties.Resources.resources
+C:\Development\Software Development\Repos\ChangeWallpaper\ChangeWallpaper\obj\Debug\ChangeWallpaper.csproj.GenerateResource.cache
+C:\Development\Software Development\Repos\ChangeWallpaper\ChangeWallpaper\obj\Debug\ChangeWallpaper.csproj.CoreCompileInputs.cache
+C:\Development\Software Development\Repos\ChangeWallpaper\ChangeWallpaper\obj\Debug\ChangeWallpaper.exe
+C:\Development\Software Development\Repos\ChangeWallpaper\ChangeWallpaper\obj\Debug\ChangeWallpaper.pdb
